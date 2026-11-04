@@ -847,3 +847,23 @@
 [stacktrace]
 #0 {main}
 "} 
+[2026-11-04 08:26:14] local.ERROR: syntax error, unexpected token "class", expecting "function" or "const" {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): syntax error, unexpected token \"class\", expecting \"function\" or \"const\" at C:/itrackb4-la5-Quijano-Robin-main/app/Models/books.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2026-11-04 08:27:15] local.ERROR: syntax error, unexpected token "class", expecting "function" or "const" {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): syntax error, unexpected token \"class\", expecting \"function\" or \"const\" at C:/itrackb4-la5-Quijano-Robin-main/app/Models/books.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2026-11-04 08:28:15] local.ERROR: syntax error, unexpected token "class", expecting "function" or "const" {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): syntax error, unexpected token \"class\", expecting \"function\" or \"const\" at C:/itrackb4-la5-Quijano-Robin-main/app/Models/books.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2026-11-04 08:29:15] local.ERROR: syntax error, unexpected token "class", expecting "function" or "const" {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): syntax error, unexpected token \"class\", expecting \"function\" or \"const\" at C:/itrackb4-la5-Quijano-Robin-main/app/Models/books.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2026-11-04 08:30:15] local.ERROR: syntax error, unexpected token "class", expecting "function" or "const" {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): syntax error, unexpected token \"class\", expecting \"function\" or \"const\" at C:/itrackb4-la5-Quijano-Robin-main/app/Models/books.php:9)
+[stacktrace]
+#0 {main}
+"} 
